@@ -1,0 +1,33 @@
+fieldset {
+    width: 375px
+}
+
+input {
+    width: 375px;
+}
+
+section {
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(124, 39, 39);
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.card img {
+    height: 300px;
+    width: 300px;
+}
+
+.card {
+}
+
+.forms {
+    display: flex;
+}
